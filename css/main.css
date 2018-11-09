@@ -79,10 +79,7 @@ body {
 	width: auto;
 	margin: 20px 510px;
 	z-index: 4;
-}
-
-.
-but {
+}.but {
 	position: absolute;
 
 border-style:none;	
@@ -101,13 +98,12 @@ width: 400px;
 	box-shadow: 0 0 10px #1e2a43;
 }
 
-.
-but:hover {
+.but:hover {
 	transition-property: all;
 	transition: all ease 1s;
     box-shadow: 0 0 25px #1e2a43;
 }
-but:onclick {
+.but:onclick {
 transition-property: all;
 	
 transition: all ease 1s;
