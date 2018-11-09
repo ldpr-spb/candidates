@@ -1,0 +1,70 @@
+@media only screen and (max-width: 700px) {
+	.but {
+		margin:310px auto auto auto;
+		width: 350px;
+		font-size: 16px;
+		height: 60px;
+
+	}
+
+	#form {
+		width: 500px;
+		height: 400px;
+	}
+
+	#gerb {
+	    height: 150px;
+     	left: 0;
+	    right: 0;
+	    margin:10px auto auto auto;
+	}
+
+	#p1 {
+	    margin: 180px auto;
+	    font-size: 24px;
+	    width: 400px;
+	    text-align: center;
+	}
+
+	#p2 {
+	    width: 420px;
+	    margin: 230px auto;
+	    font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+
+	#gerb {
+	    height: 150px;
+     	left: 0;
+	    right: 0;
+	    margin:20px auto auto auto;
+	}
+
+	.but {
+		margin:340px auto auto auto;
+		width: 250px;
+		font-size: 14px;
+		height: 50px;
+
+	}
+
+	#form {
+		width: 350px;
+		height: 430px;
+	}
+
+	#p1 {
+	    margin: 180px auto;
+	    font-size: 22px;
+	    width: 300px;
+	    text-align: center;
+	}
+
+	#p2 {
+	    width: 300px;
+	    margin: 260px auto;
+	    font-size: 19px;
+	}
+	}
