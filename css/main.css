@@ -81,9 +81,12 @@ body {
 	z-index: 4;
 }
 
-.but {
+.
+but {
 	position: absolute;
-	width: 400px;
+
+border-style:none;	
+width: 400px;
 	height: 65px;
 	border: none;
 	cursor: pointer;
@@ -98,8 +101,15 @@ body {
 	box-shadow: 0 0 10px #1e2a43;
 }
 
-.but:hover {
+.
+but:hover {
 	transition-property: all;
 	transition: all ease 1s;
     box-shadow: 0 0 25px #1e2a43;
+}
+but:onclick {
+transition-property: all;
+	
+transition: all ease 1s;
+background-color: #171f34;
 }
