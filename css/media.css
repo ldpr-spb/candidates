@@ -1,22 +1,22 @@
 @media only screen and (max-width: 700px) {
 	.but {
-		margin:310px auto auto auto;
+		margin: 350px auto auto auto;
 		width: 350px;
 		font-size: 16px;
-		height: 60px;
+		height: 55px;
 
 	}
 
 	#form {
 		width: 500px;
-		height: 400px;
+		height: 430px;
 	}
 
 	#gerb {
 	    height: 150px;
      	left: 0;
 	    right: 0;
-	    margin:10px auto auto auto;
+	    margin: 20px auto auto auto;
 	}
 
 	#p1 {
@@ -27,8 +27,8 @@
 	}
 
 	#p2 {
-	    width: 420px;
-	    margin: 230px auto;
+	    width: 440px;
+	    margin: 275px auto;
 	    font-size: 20px;
 	}
 }
@@ -39,14 +39,14 @@
 	    height: 150px;
      	left: 0;
 	    right: 0;
-	    margin:20px auto auto auto;
+	    margin: 20px auto auto auto;
 	}
 
 	.but {
-		margin:340px auto auto auto;
-		width: 250px;
+		margin: 360px auto auto auto;
+		width: 270px;
 		font-size: 14px;
-		height: 50px;
+		height: 45px;
 
 	}
 
@@ -56,15 +56,15 @@
 	}
 
 	#p1 {
-	    margin: 180px auto;
-	    font-size: 22px;
+	    margin: 185px auto;
+	    font-size: 20px;
 	    width: 300px;
 	    text-align: center;
 	}
 
 	#p2 {
 	    width: 300px;
-	    margin: 260px auto;
+	    margin: 290px auto;
 	    font-size: 19px;
 	}
 	}
