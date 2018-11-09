@@ -79,7 +79,8 @@ body {
 	width: auto;
 	margin: 20px 510px;
 	z-index: 4;
-}.but {
+}
+.but {
 	position: absolute;
 
 border-style:none;	
